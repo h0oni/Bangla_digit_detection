@@ -8,3 +8,4 @@ System used: intel core i7-4790k
 
 Dataset used: NumtaDB (training-a) Link: https://www.kaggle.com/BengaliAI/numta
 
+![](Tkinter_files/Bangla_1.PNG)
