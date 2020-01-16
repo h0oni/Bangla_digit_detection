@@ -7,7 +7,7 @@ System used: intel core i7-4790k
 	     Gpu: Nvidia Quadro GV100
 
 Dataset used: NumtaDB (training-a) Link: https://www.kaggle.com/BengaliAI/numta
-
+<img src="Tkinter_files/Bangla_2.PNG">
 ![](Tkinter_files/Bangla_1.PNG)
 
 ![](Tkinter_files/Bangla_2.PNG)
